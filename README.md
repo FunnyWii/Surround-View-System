@@ -17,7 +17,6 @@ C++的实时画面开发基于 https://github.com/JokerEyeAdas/AdasSourrondView
 
 ###### **安装步骤**
 
-1. Clone the repo
 ```sh
 git clone https://github.com/FunnyWii/Surround-View-System
 mkdir build
@@ -27,20 +26,17 @@ make
 ./avm_cam
 ```
 
-
 ### 文件目录说明
-eg:
 
 ```
-filetree 
 .
 ├── 1.mp4                // Video Demo
 ├── avm_app_demo.cpp     
 ├── avm_cali_demo.cpp
-├── avm_cam_demo.cpp    // Real-time 
+├── avm_cam_demo.cpp    // main function
 ├── cache
 ├── calibration@neozhaoliang  // Calib camera and calculate params 
-├── CMakeLists.txt
+├── CMakeLists.txt      
 ├── doc            
 ├── images
 ├── srcs                // source and headers

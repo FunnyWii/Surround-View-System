@@ -7,7 +7,7 @@ C++的实时画面开发基于 https://github.com/JokerEyeAdas/AdasSourrondView
 
 # 效果：
 <video width="1920" height="1080" controls>
-  <source src="[https://github.com/FunnyWii/Surround-View-System/blob/main/1.mp4](https://github.com/FunnyWii/Surround-View-System/blob/main/1.mp4) type="video/mp4">
+  <source src=[https://github.com/FunnyWii/Surround-View-System/blob/main/1.mp4](https://github.com/FunnyWii/Surround-View-System/blob/main/1.mp4) type="video/mp4">
 </video>
 
 

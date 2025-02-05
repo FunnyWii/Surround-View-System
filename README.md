@@ -5,6 +5,12 @@
 C++的实时画面开发基于 https://github.com/JokerEyeAdas/AdasSourrondView
 在Jetson Orin AGX上运行速度30+FPS
 
+# 效果：
+<video width="1920" height="1080" controls>
+  <source src="https://github.com/FunnyWii/Surround-View-System/raw/main/1.mp4" type="video/mp4">
+</video>
+
+
 ### 上手指南
 
 ###### 配置要求
